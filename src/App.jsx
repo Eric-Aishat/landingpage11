@@ -1,6 +1,6 @@
 
 import React, {useState,useEffect} from 'react'
-import CartPage from './cartPage'
+
 import Hero from './Hero'
 
 import ABOUT from './page/ABOUT.JSX'
@@ -10,6 +10,7 @@ import Nav from './Nav'
 import { BrowserRouter,Routes,Route } from 'react-router'
 
 import './App.css'
+import CartPage from './page/Cartpage2'
 
 function App() {
   

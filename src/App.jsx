@@ -7,7 +7,7 @@ import ABOUT from './page/ABOUT.JSX'
 import BRANDS from './page/BRANDS.JSX'    
 import DROPS from './page/DROPS.JSX'
 import Nav from './Nav'
-import { BrowserRouter,Routes,Route } from 'react-router-dom'
+import { BrowserRouter,Routes,Route } from 'react-router'
 
 import './App.css'
 

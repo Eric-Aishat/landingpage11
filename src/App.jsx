@@ -3,9 +3,9 @@ import React, {useState,useEffect} from 'react'
 
 import Hero from './Hero'
 
-import ABOUT from './page/ABOUT.JSX'
-import BRANDS from './page/BRANDS.JSX'    
-import DROPS from './page/DROPS.JSX'
+import ABOUT from './page/ABOUT.jsx'
+import BRANDS from './page/BRANDS.jsx'    
+import DROPS from './page/DROPS.jsx'
 import Nav from './Nav'
 import { BrowserRouter,Routes,Route } from 'react-router'
 

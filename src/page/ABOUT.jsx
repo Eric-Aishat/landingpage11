@@ -94,7 +94,7 @@ const ABOUT = () => {
               </p>
             </div>
             <img src={rating} alt="rating" className="w-16 ml-2 -mt-4" />
-            <p className="text-white mt-3 text-sm">
+            <p className="text-gray-300 mt-3 text-sm">
               Finally found a brand that gives me value for money. The sneakers I got from STAMP were so comfortable—I love them!
             </p>
           </div>

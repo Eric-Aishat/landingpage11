@@ -42,11 +42,11 @@ const Hero = () => {
             <span className="text-red-800">THAT HIT.</span> <br />
             DIFFERENT
           </p>
-          <p className="mt-2 text-sm md:text-base text-gray-700">next.gen streetwear. Designed to stand</p>
+          <p className="mt-2 text-sm md:text-base text-red-700">next.gen streetwear. Designed to stand</p>
 
           <div className="mt-4 flex flex-col sm:flex-row items-center sm:items-start justify-center sm:justify-start gap-4">
             <button className="w-40 text-white bg-red-600 h-10 rounded">SHOP THE DROP</button>
-            <button className="w-44 h-10 border border-red-700 px-3 text-red-500 rounded">
+            <button className="w-44 h-10 border border-blue-700 px-3 text-red-500 rounded">
               EXPLORE BRANDS
             </button>
           </div>

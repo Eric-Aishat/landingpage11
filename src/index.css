@@ -1,3 +1,32 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.burger{
+  margin-left: 350px;
+  margin-top: px;
+  padding-left: 5px;
+  bottom: 8px;
+  
+  display: block;
+  position: relative;
+  top: 25px;
+  
+}
+.navlist{
+  display: flex;
+  flex-direction: colum;
+  gap: 95px;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+
+@media (min-width:480px) {
+  .burger{
+    display: none;
+  }
+  
+}
+
+  

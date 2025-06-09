@@ -9,7 +9,7 @@ import DROPS from './page/DROPS.jsx'
 import Nav from './Nav'
 import { BrowserRouter,Routes,Route } from 'react-router'
 
-import './App.css'
+
 import CartPage from './page/Cartpage2'
 
 function App() {

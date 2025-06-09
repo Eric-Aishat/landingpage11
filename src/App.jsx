@@ -1,6 +1,6 @@
 
 import React, {useState,useEffect} from 'react'
-import CartPage from './CartPage'
+import CartPage from './cartPage'
 import Hero from './Hero'
 
 import ABOUT from './page/ABOUT.JSX'
